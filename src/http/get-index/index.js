@@ -7,21 +7,21 @@ exports.handler = async function Index () {
     /**
      * Basic bio
      */
-    fullname: 'Your Name', // ←  Start by adding your name!
-    title: 'My personal site!',
-    occupation: 'Artist & Photographer',
-    location: 'West Glacier, MT',
+    fullname: 'Matt Matoon', // ←  Start by adding your name!
+    title: 'Just trying this all out',
+    occupation: 'Student',
+    location: 'Reno, NV',
     bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.',
 
     /**
      * Contact / social
      * - Comment out any item below to remove it from your page
      */
-    email: 'your@email.com',
-    twitter: 'yourTwitter',
-    linkedin: 'your-linkedin-name',
-    instagram: 'yourInsta',
-    facebook: 'your-facebook-name',
+    email: 'matt@email.com',
+    twitter: 'mattTwitter',
+    linkedin: 'matt',
+    instagram: 'matt',
+    facebook: 'FTC is gonna get you',
 
     /**
      * Layout
